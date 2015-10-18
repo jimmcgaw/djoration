@@ -1,0 +1,5 @@
+# Logfile created on 2015-10-18 14:04:52 -0700 by logger.rb/44203
+I, [2015-10-18T14:04:52.507831 #15480]  INFO -- : 0:  rack (1.6.4) from /Users/smoochy/.rvm/gems/ruby-2.1.0/specifications/rack-1.6.4.gemspec
+I, [2015-10-18T14:04:52.508259 #15480]  INFO -- : 0:  bundler (1.5.1) from /Users/smoochy/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2015-10-18T14:07:25.654181 #15537]  INFO -- : 0:  rack (1.6.4) from /Users/smoochy/.rvm/gems/ruby-2.1.0/specifications/rack-1.6.4.gemspec
+I, [2015-10-18T14:07:25.654485 #15537]  INFO -- : 0:  bundler (1.5.1) from /Users/smoochy/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
