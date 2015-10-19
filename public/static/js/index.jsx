@@ -124,7 +124,7 @@
   }
 
   const speechOptions = ['j8d-IYSM-08', 'pOjpaIO2seY', 'xo-6BNtq5RY', 'IDl84vusXos'];
-  const musicOptions = ['vnHudUSzDuY', 'fzyiFyg6LV4', 'qOTYKSgJwMs', 'FY3Av5Wo0tU'];
+  const musicOptions = ['vnHudUSzDuY', 'JpfiJ3FU2Tk', '0gp0JvfPpmE', 'NpOtkhBcc8k'];
 
   ReactDOM.render(<VideoMenu speechOptions={speechOptions} musicOptions={musicOptions} />, document.getElementById('menu'));
 
