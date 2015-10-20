@@ -233,7 +233,7 @@
 	    return VideoMenu;
 	  })(React.Component);
 
-	  var speechOptions = ['j8d-IYSM-08', 'pOjpaIO2seY', 'xo-6BNtq5RY', 'IDl84vusXos'];
+	  var speechOptions = ['j8d-IYSM-08', 'pOjpaIO2seY', 'xo-6BNtq5RY', 'IDl84vusXos', 'X16G2hsVI9w', 'ufoUtoQLGQY', 'Jm6mX2gX8mo', '14bgz7xSUrE', 'hphgHi6FD8k', 'SOQwa73KXbs', 'uP0NbCTHLzw'];
 	  var musicOptions = ['vnHudUSzDuY', 'JpfiJ3FU2Tk', '0gp0JvfPpmE', 'NpOtkhBcc8k'];
 
 	  ReactDOM.render(React.createElement(VideoMenu, { speechOptions: speechOptions, musicOptions: musicOptions }), document.getElementById('menu'));

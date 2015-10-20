@@ -123,7 +123,7 @@
     }
   }
 
-  const speechOptions = ['j8d-IYSM-08', 'pOjpaIO2seY', 'xo-6BNtq5RY', 'IDl84vusXos'];
+  const speechOptions = ['j8d-IYSM-08', 'pOjpaIO2seY', 'xo-6BNtq5RY', 'IDl84vusXos', 'X16G2hsVI9w', 'ufoUtoQLGQY', 'Jm6mX2gX8mo', '14bgz7xSUrE', 'hphgHi6FD8k', 'SOQwa73KXbs', 'uP0NbCTHLzw'];
   const musicOptions = ['vnHudUSzDuY', 'JpfiJ3FU2Tk', '0gp0JvfPpmE', 'NpOtkhBcc8k'];
 
   ReactDOM.render(<VideoMenu speechOptions={speechOptions} musicOptions={musicOptions} />, document.getElementById('menu'));
