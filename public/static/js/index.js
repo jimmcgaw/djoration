@@ -70,7 +70,7 @@
 	    speechPlayer = new YT.Player('speech-player', {
 	      height: '390',
 	      width: '640',
-	      videoId: 'xo-6BNtq5RY',
+	      videoId: 'j8d-IYSM-08',
 	      playerVars: {
 	        'fs': 0,
 	        'autoplay': 1
@@ -86,7 +86,7 @@
 	    musicPlayer = new YT.Player('music-player', {
 	      height: '390',
 	      width: '640',
-	      videoId: 'vnHudUSzDuY',
+	      videoId: 'NpOtkhBcc8k',
 	      playerVars: {
 	        'fs': 0,
 	        'autoplay': 1
